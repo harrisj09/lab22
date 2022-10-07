@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <root>
+    <ingredients>
+    <element>
+    <calories>200</calories>
+    <carbs>29</carbs>
+    <cholesterol>0</cholesterol>
+    <fat>9</fat>
+    <fiber>3</fiber>
+    <name>Crispy Corn Tortilla</name>
+    <protein>3</protein>
+    <serving>1.5</serving>
+</element>
+
+    <element>
+    <calories>250</calories>
+    <carbs>40</carbs>
+    <cholesterol>0</cholesterol>
+    <fat>8</fat>
+    <fiber>2</fiber>
+    <name>Soft Flour Tortillas (3)</name>
+    <protein>7</protein>
+    <serving>3</serving>
+
+</element>
+
+
+    <element>
+    <calories>180</calories>
+    <carbs>0</carbs>
+    <cholesterol>125</cholesterol>
+    <fat>7</fat>
+    <fiber>0</fiber>
+    <name>Chicken</name>
+    <protein>32</protein>
+    <serving>4</serving>
+
+</element>
+
+
+    <element>
+    <calories>150</calories>
+    <carbs>1</carbs>
+    <cholesterol>80</cholesterol>
+    <fat>6</fat>
+    <fiber>1</fiber>
+    <name>Steak</name>
+    <protein>21</protein>
+    <serving>4</serving>
+
+</element>
+
+
+    <element>
+    <calories>210</calories>
+    <carbs>36</carbs>
+    <cholesterol>0</cholesterol>
+    <fat>6</fat>
+    <fiber>2</fiber>
+    <name>Brown Rice</name>
+    <protein>4</protein>
+    <serving>4</serving>
+
+</element>
+
+
+    <element>
+    <calories>130</calories>
+    <carbs>22</carbs>
+    <cholesterol>0</cholesterol>
+    <fat>1.5</fat>
+    <fiber>7</fiber>
+    <name>Black Beans</name>
+    <protein>8</protein>
+    <serving>4</serving>
+
+</element>
+
+
+    <element>
+    <calories>120</calories>
+    <carbs>4</carbs>
+    <cholesterol>25</cholesterol>
+    <fat>8</fat>
+    <fiber>0.5</fiber>
+    <name>Queso</name>
+    <protein>6</protein>
+    <serving>2</serving>
+
+</element>
+
+
+    <element>
+    <calories>25</calories>
+    <carbs>1</carbs>
+    <cholesterol>0</cholesterol>
+    <fat>0</fat>
+    <fiber>1</fiber>
+    <name>Fresh Tomato Salsa</name>
+    <protein>0</protein>
+    <serving>3.5</serving>
+
+</element>
+
+
+    <element>
+    <calories>110</calories>
+    <carbs>2</carbs>
+    <cholesterol>40</cholesterol>
+    <fat>9</fat>
+    <fiber>0</fiber>
+    <name>Sour Cream</name>
+    <protein>2</protein>
+    <serving>2</serving>
+
+</element>
+
+
+    <element>
+
+    <calories>230</calories>
+    <carbs>8</carbs>
+    <cholesterol>0</cholesterol>
+    <fat>22</fat>
+    <fiber>6</fiber>
+    <name>Guacamole</name>
+    <protein>2</protein>
+    <serving>4</serving>
+
+</element>
+
+</ingredients>
+
+</root>

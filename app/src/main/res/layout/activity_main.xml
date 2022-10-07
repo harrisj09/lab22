@@ -1,0 +1,107 @@
+<androidx.constraintlayout.widget.ConstraintLayout tools:context=".MainActivity" android:layout_height="match_parent" android:layout_width="match_parent" xmlns:tools="http://schemas.android.com/tools" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <LinearLayout android:layout_height="match_parent" android:layout_width="match_parent" android:orientation="horizontal">
+
+
+    <LinearLayout android:layout_height="match_parent" android:layout_width="wrap_content" android:orientation="vertical" android:layout_marginTop="16dp" android:layout_marginLeft="16dp" android:layout_marginStart="16dp" android:id="@+id/llChecks">
+
+    <CheckBox android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/cbIng0" android:text="Ingredient0"/>
+
+    <CheckBox android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/cbIng1" android:text="Ingredient1"/>
+
+    <CheckBox android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/cbIng2" android:text="Ingredient2"/>
+
+    <CheckBox android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/cbIng3" android:text="Ingredient3"/>
+
+    <CheckBox android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/cbIng4" android:text="Ingredient4"/>
+
+    <CheckBox android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/cbIng5" android:text="Ingredient5"/>
+
+    <CheckBox android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/cbIng6" android:text="Ingredient6"/>
+
+    <CheckBox android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/cbIng7" android:text="Ingredient7"/>
+
+    <CheckBox android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/cbIng8" android:text="Ingredient8"/>
+
+    <CheckBox android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/cbIng9" android:text="Ingredient9"/>
+
+</LinearLayout>
+
+
+    <LinearLayout android:layout_height="match_parent" android:layout_width="wrap_content" android:orientation="vertical" android:layout_marginTop="16dp" android:layout_marginLeft="16dp" android:layout_marginStart="16dp" android:id="@+id/llSums">
+
+    <TextView android:layout_height="wrap_content" android:layout_width="100dp" android:layout_marginLeft="20dp" android:id="@+id/textView" android:text="Serving"/>
+
+    <TextView android:layout_height="wrap_content" android:layout_width="100dp" android:layout_marginLeft="20dp" android:id="@+id/textView1" android:text="Calories"/>
+
+    <TextView android:layout_height="wrap_content" android:layout_width="100dp" android:layout_marginLeft="20dp" android:id="@+id/textView2" android:text="Fat"/>
+
+    <TextView android:layout_height="wrap_content" android:layout_width="100dp" android:layout_marginLeft="20dp" android:id="@+id/textView3" android:text="Cholesterol"/>
+
+    <TextView android:layout_height="wrap_content" android:layout_width="100dp" android:layout_marginLeft="20dp" android:id="@+id/textView4" android:text="Carbohydrates"/>
+
+    <TextView android:layout_height="wrap_content" android:layout_width="100dp" android:layout_marginLeft="20dp" android:id="@+id/textView5" android:text="Fiber"/>
+
+    <TextView android:layout_height="wrap_content" android:layout_width="100dp" android:layout_marginLeft="20dp" android:id="@+id/textView6" android:text="Protein"/>
+
+    <Button android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/btnTotal" android:text="Total"/>
+
+</LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_serving"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:text="----" />
+
+            <TextView
+                android:id="@+id/tv_calories"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:text="----" />
+
+            <TextView
+                android:id="@+id/tv_fat"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:text="----" />
+
+            <TextView
+                android:id="@+id/tv_cholesterol"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:text="----" />
+
+            <TextView
+                android:id="@+id/tv_carbs"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:text="----" />
+
+            <TextView
+                android:id="@+id/tv_fiber"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:text="----" />
+
+            <TextView
+                android:id="@+id/tv_protein"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:text="----" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
